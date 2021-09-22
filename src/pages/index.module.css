@@ -1,0 +1,30 @@
+/**
+ * CSS files with the .module.css suffix will be treated as CSS modules
+ * and scoped locally.
+ */
+
+@import url("https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro&display=swap");
+
+* {
+  font-family: "Be Vietnam Pro", sans-serif;
+}
+.heroBanner {
+  padding: 4rem 0;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  background: #f7df1c;
+  color: black;
+}
+
+@media screen and (max-width: 966px) {
+  .heroBanner {
+    padding: 2rem;
+  }
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
