@@ -21,14 +21,10 @@ const nightOwl = require("prism-react-renderer/themes/nightOwl");
           docs: {
             sidebarPath: require.resolve("./sidebars.js"),
             // Please change this to your repo.
-            editUrl:
-              "https://github.com/facebook/docusaurus/edit/main/website/",
           },
           blog: {
             showReadingTime: true,
             // Please change this to your repo.
-            editUrl:
-              "https://github.com/facebook/docusaurus/edit/main/website/blog/",
           },
           theme: {
             customCss: require.resolve("./src/css/custom.css"),
@@ -76,7 +72,7 @@ const nightOwl = require("prism-react-renderer/themes/nightOwl");
               label: "Start Learning",
             },
             {
-              href: "https://github.com/iamrahultanwar/project-js",
+              href: "https://github.com/iamrahultanwar/namaste-js-docs",
               label: "GitHub",
               position: "right",
             },
