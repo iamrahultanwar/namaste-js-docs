@@ -2,6 +2,8 @@
 
 An Initiative to convert Akshay Saini's popular series Namaste Javascript in a readable documentations
 
+[Preview](https://namaste-js.herokuapp.com/)
+
 ## How to run
 
 ```shell
